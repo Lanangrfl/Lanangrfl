@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lanang
+- 👀 I’m interested in everything except coding
+- 🌱 I’m currently learning Python snake
+- 💞️ I’m so happy if you guys support me to become NASA hacker
